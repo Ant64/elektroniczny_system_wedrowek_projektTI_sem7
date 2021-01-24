@@ -1,0 +1,2 @@
+# elektroniczny_system_wedrowek_projektTI_sem7
+projektTI_sem7
